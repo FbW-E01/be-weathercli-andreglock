@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/FbW-E01/be-weathercli-andreglock#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "moment": "^2.29.1"
   }
 }
